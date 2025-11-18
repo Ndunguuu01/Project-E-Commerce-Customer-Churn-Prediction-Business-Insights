@@ -91,7 +91,7 @@ Customer-Churn-Prediction-and-Ecommerce-Analytics/
 
 ---
 
-## 📈 Model Performance (Example)
+## 📈 Model Performance
 
 | Metric    | Score |
 |-----------|--------|
@@ -158,5 +158,3 @@ Copy code
 Data Scientist | Machine Learning | Analytics  
 GitHub: https://github.com/Ndunguuu01  
 LinkedIn: https://www.linkedin.com/in/brian-ndungu-datascientist/
-LinkedIn: add your link
-GitHub: add your link
